@@ -1,0 +1,30 @@
+{
+  "name": "nodeservergpslocationreceiver",
+  "version": "1.0.0",
+  "description": "server which listen to gps location",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edirisinghe/NodeServerGpsLocationReceiver.git"
+  },
+  "keywords": [
+    "node",
+    "gps",
+    "server"
+  ],
+  "author": "Buddhi Edirisinghe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Edirisinghe/NodeServerGpsLocationReceiver/issues"
+  },
+  "homepage": "https://github.com/Edirisinghe/NodeServerGpsLocationReceiver#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
